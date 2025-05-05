@@ -1,8 +1,14 @@
+.. _Atlassian: https://www.atlassian.com/
+.. _JetBrains: http://www.jetbrains.com
+.. _PyCharm: http://www.jetbrains.com/pycharm/
+.. _GitHub: https://github.com/
+.. _Microsoft: https://github.com/Microsoft/vscode/
+.. _VSCode: https://code.visualstudio.com/
 ============================
 Atlassian Python API wrapper
 ============================
 |Build Status| |PyPI version| |PyPI - Downloads| |License| |Codacy Badge| |Docs| |Discord|
-all
+all Microsoft
 What is it?
 ___________
 The **atlassian-python-api** library provides a **simple** and convenient way to interact with Atlassian products
