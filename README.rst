@@ -2,7 +2,7 @@
 Atlassian Python API wrapper
 ============================
 |Build Status| |PyPI version| |PyPI - Downloads| |License| |Codacy Badge| |Docs| |Discord|
-
+all
 What is it?
 ___________
 The **atlassian-python-api** library provides a **simple** and convenient way to interact with Atlassian products
